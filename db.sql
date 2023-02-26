@@ -2,7 +2,7 @@ insert into Flag(Flag,challenge_title,point) values('CUHA{Good!!Flag_is_here!!!}
 insert into Flag(Flag,challenge_title,point) values('CUHA{Start_of_reversing~!!:D}','reversing_tutorial',50);
 insert into Flag(Flag,challenge_title,point) values('CUHA{Flag_is_here:D!!!I_used_UDP!!}','network_tutorial',50);
 insert into Flag(Flag,challenge_title,point) values('CUHA{Read_backwards!!}','crypto_tutorial',50);
-insert into Flag(Flag,challenge_title,point) values('CUHA{This_is_The_flag!!!extension_is_txt!!!!}','crypto_tutorial',50);
+insert into Flag(Flag,challenge_title,point) values('CUHA{This_is_The_flag!!!extension_is_txt!!!!}','misc_tutorial',50);
 insert into Flag(Flag,challenge_title,point) values('CUHA{1_H4TE_R080T}','web1',100);
 insert into Flag(Flag,challenge_title,point) values('CUHA{yo__hello_im_flag__}','web2',300);
 insert into Flag(Flag,challenge_title,point) values('CUHA{e_a_s_y_Pea_s_y}','web3',300);
