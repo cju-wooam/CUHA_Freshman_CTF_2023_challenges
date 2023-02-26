@@ -7,7 +7,7 @@ insert into Flag(Flag,challenge_title,point) values('CUHA{1_H4TE_R080T}','web1',
 insert into Flag(Flag,challenge_title,point) values('CUHA{yo__hello_im_flag__}','web2',300);
 insert into Flag(Flag,challenge_title,point) values('CUHA{e_a_s_y_Pea_s_y}','web3',300);
 insert into Flag(Flag,challenge_title,point) values('CUHA{I_l_ike_sql_y_e_a_h}','web4',500);
-insert into Flag(Flag,challenge_title,point) values('CUHA{34sy_P34sy_R3vers1ng_ch4ll3nge:D}','reversing1',100);
+insert into Flag(Flag,challenge_title,point) values('CUHA{34sy_P34sy_R3vers1ng_Ch4ll3nge:D}','reversing1',100);
 insert into Flag(Flag,challenge_title,point) values('CUHA{Basic_Reversing_Challenge_of_CUHA_CTF_2022!!!?!:D}','reversing2',300);
 insert into Flag(Flag,challenge_title,point) values('CUHA{I_love_Linux._I_Love_Windows._And_I_Love_Reversing.}','reversing3',500);
 insert into Flag(Flag,challenge_title,point) values('CUHA{Easy_cypto_challenge_with_Caesar_cipher}','crypto1',100);
@@ -17,7 +17,7 @@ insert into Flag(Flag,challenge_title,point) values('CUHA{VERRYXGOODXDOXYOUXKNOW
 insert into Flag(Flag,challenge_title,point) values('CUHA{2397458484254696004708038691496600107008759624666260879602258120008414541658}','crypto5',500);
 insert into Flag(Flag,challenge_title,point) values('CUHA{G00d!th1s_1s_th3_s4nity_ch3ck!!!:D}','misc1',100);
 insert into Flag(Flag,challenge_title,point) values('CUHA{W3lc0m3_t0_D1sc0rd_W0rld!!!}','misc2',100);
-insert into Flag(Flag,challenge_title,point) values('CUHA(I_love_coffe_:>}','misc3',100);
+insert into Flag(Flag,challenge_title,point) values('CUHA{I_love_coffe_:>}','misc3',100);
 insert into Flag(Flag,challenge_title,point) values('CUHA{dig_dug_digging_mole!}','misc4',100);
 insert into Flag(Flag,challenge_title,point) values('CUHA{Q2_C0D3_1S_600D}','misc5',100);
 insert into Flag(Flag,challenge_title,point) values('CUHA{FULL_ITEM_GOLD_33450}','misc6',300);
