@@ -8,7 +8,7 @@ insert into Flag(Flag,challenge_title,point) values('CUHA{yo__hello_im_flag__}',
 insert into Flag(Flag,challenge_title,point) values('CUHA{e_a_s_y_Pea_s_y}','web3',300);
 insert into Flag(Flag,challenge_title,point) values('CUHA{I_l_ike_sql_y_e_a_h}','web4',500);
 insert into Flag(Flag,challenge_title,point) values('CUHA{34sy_P34sy_R3vers1ng_Ch4ll3nge:D}','reversing1',100);
-insert into Flag(Flag,challenge_title,point) values('CUHA{Basic_Reversing_Challenge_of_CUHA_CTF_2022!!!?!:D}','reversing2',300);
+insert into Flag(Flag,challenge_title,point) values('CUHA{Basic_Reversing_Challenge_of_CUHA_CTF!!!?!:D}','reversing2',300);
 insert into Flag(Flag,challenge_title,point) values('CUHA{I_love_Linux._I_Love_Windows._And_I_Love_Reversing.}','reversing3',500);
 insert into Flag(Flag,challenge_title,point) values('CUHA{Easy_cypto_challenge_with_Caesar_cipher}','crypto1',100);
 insert into Flag(Flag,challenge_title,point) values('CUHA{D0_y0u_kn0w_m4g1c14n?!!!?!?!:D}','crypto2',300);
